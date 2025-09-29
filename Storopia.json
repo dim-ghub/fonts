@@ -1,0 +1,13 @@
+{
+  "fonts": [
+    {
+      "name": "Storopia",
+      "postscript": "Storopia",
+      "weight": 400,
+      "style": "normal",
+      "src": [
+        "https://raw.githubusercontent.com/YourUser/YourRepo/main/Storopia-Regular.ttf"
+      ]
+    }
+  ]
+}
